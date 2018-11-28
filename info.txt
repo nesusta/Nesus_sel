@@ -1,0 +1,19 @@
+github.com open an account
+Create a repository
+then install git program for windows
+then create a folder in C://
+then right click inside the folder and select git bash.
+from the coming command promp write
+git init and enter
+
+local repository ve central olani link etmek icin
+git remote add origin "buraya central repositorynin url si yazilacak" ve enter
+git pull origin master  ve entera bas
+create a new file inside the folder that you created and git add filename.txt enter
+git status enter to check the file is whether added to index or not
+
+Git add -A    enter  to add all the files to the index at once.
+Git commit -a -m “buraya comment yaz”  comment yazmayinca olmuyor
+
+git log enter deyince ssh keyler gorunuyor
+
