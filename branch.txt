@@ -1,1 +1,3 @@
 branch1 icindeki branch dosyasi degistirildi
+
+simdi bu dosyaya local repositoryden ek yapildi
